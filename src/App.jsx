@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Main from "./components/Main";
 import Flower from "./assets/Flower.png";
 import Paragraph from "./components/Paragraph";
-import Bottom from "./components/bottom";
+import Bottom from "./components/Bottom";
 import LocomotiveScroll from "locomotive-scroll";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
